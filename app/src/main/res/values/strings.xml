@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Latihan Teknik Dasar Bulutangkis</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="todo">TODO</string>
+    <string name="beranda">Beranda</string>
+    <string name="referensi">Referensi</string>
+    <string name="profil">Profil</string>
+    <string name="evaluasi">Evaluasi</string>
+    <string name="program_latihan">Program Latihan</string>
+    <string name="materi">Materi</string>
+
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">Prodi</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="universitas">Universitas</string>
+    <string name="sekar_pudak_wangi">: Sekar Pudak Wangi</string>
+    <string name="_16602241051">: 16602241051</string>
+    <string name="pko_pendidikan_kepelatihan_olahraga">: PKO (Pendidikan Kepelatihan Olahraga)</string>
+    <string name="fakultas_ilmu_keolahragaan">: Fakultas Ilmu Keolahragaan</string>
+    <string name="universitas_negeri_yogyakarta">: Universitas Negeri Yogyakarta</string>
+
+    <string name="referensi_satu">Grice, Tony. 2007. <i>Bulu Tangkis Petunjuk Praktis untuk Pemula dan Lanjut</i>. Jakarta: PT.Raja Grafindo Persada.</string>
+    <string name="referensi_dua">Johnson, M.L. 1984. <i>Bimbingan Bermain Bulu Tangkis</i>. Jakarta: PT Mitra Sumber Widya.</string>
+    <string name="referensi_tiga">Poole, James. 2011. <i>Belajar Bulu Tangkis</i>. Bandung: CV. Pionir Jaya.</string>
+    <string name="referensi_empat">Purnama, Sapta Kunta. (2010). <i>Kepelatihan Bulutangkis Modern</i>. Surakarta: Yuma Pustaka.</string>
+    <string name="referensi_lima">Subarjah, Herman. 2001. <i>Konsep dan Metode Pembelajaran Pendekatan Taktis dalam Pembelajaran Bulu Tangkis</i>. Jakarta: Direktorat Jendral Olahraga. Depdiknas. </string>
+
+    <string name="soal_1">1.	Cara memegang raket dalam bulu tangkis adalah sebagai berikut, kecuali …</string>
+    <string name="soal_2">2.	Perbedaan pukulan forehand dan backhand dalam permainan bulu tangkis terletak pada …</string>
+    <string name="soal_3">3.	Dalam permainan bulutangkis pukulan yang paling utama yaitu …</string>
+    <string name="soal_4">4.	Laju shuttle dari pukulan smash yaitu keras …</string>
+    <string name="soal_5">5.	Pukulan yang jatuhnya dekat net dinamakan pukulan …</string>
+
+    <string name="_1a">a.	Cara Asia</string>
+    <string name="_1b">b.	Cara Backhand</string>
+    <string name="_1c">c.	Cara American</string>
+    <string name="_1d">d.	Cara Forehand</string>
+
+    <string name="_2a">a.	Laju shuttlecock</string>
+    <string name="_2b">b.	Posisi kaki</string>
+    <string name="_2c">c.	Sikap kepala</string>
+    <string name="_2d">d.	Sikap badan menghadap</string>
+
+    <string name="_3a">a.	Drive</string>
+    <string name="_3b">b.	Smash</string>
+    <string name="_3c">c.	Service</string>
+    <string name="_3d">d.	Forehand</string>
+
+    <string name="_4a">a.	Melayang</string>
+    <string name="_4b">b.	Menukik</string>
+    <string name="_4c">c.	Menyilang</string>
+    <string name="_4d">d.	Melambung</string>
+
+    <string name="_5a">a.	Drive</string>
+    <string name="_5b">b.	Service</string>
+    <string name="_5c">c.	Smash </string>
+    <string name="_5d">d.	Dropshot</string>
+    <string name="submit">Submit</string>
+    <string name="nilai">Nilai</string>
+    <string name="ok">OK</string>
+    <string name="materi_1">1.\tSikap Berdiri (Stance)</string>
+    <string name="materi_2">2.\tTeknik Memegang Raket (Grip)</string>
+    <string name="materi_3">3.\tTeknik Memukul Kok</string>
+    <string name="materi_4">4.\tTeknik Langkah Kaki (Footwork)</string>
+    <string name="materi_6">6.\tLatihan Kelincahan Footwork Bulutangkis</string>
+    <string name="materi_5">5.\tKelincahan Footwork Bulutangkis</string>
+
+
+</resources>
